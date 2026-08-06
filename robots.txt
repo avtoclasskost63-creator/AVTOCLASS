@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avtoclasskost63-creator.github.io/AVTOCLASS/sitemap.xml
